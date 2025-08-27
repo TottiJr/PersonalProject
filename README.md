@@ -1,6 +1,11 @@
 # PersonalProject
 
 **Data Professional Survey Breakdown (Power BI Project)**
+
+<img width="918" height="483" alt="image" src="https://github.com/user-attachments/assets/9f23edfa-1524-4daf-a25b-cf4831ef80f3" />
+
+
+
 - Conducted an end-to-end analysis of a Data Professional Survey using Power BI, uncovering insights on salaries, job titles, and industry trends.
 - Transformed raw data using Power Query, established table relationships, and created DAX measures for dynamic calculations.
 - Designed interactive dashboards with conditional formatting, drill-downs, and visualizations (e.g., bar charts, slicers) to highlight:
@@ -15,3 +20,9 @@
 - Designed and deployed a Tableau Public dashboard featuring multi-story points for PlayStation, Nintendo, and Xbox, to visualize global video game sales data from 1994-2010.
   
 - Leveraged data visualization techniques to illustrate "Platform Analysis Over Time" and "Sales by Platform," providing detailed insights into market dynamics and competitive landscapes.
+
+
+
+**Academic Stress Level Data Survey**
+
+<img width="857" height="485" alt="image" src="https://github.com/user-attachments/assets/ca0c2d1d-b181-4d4c-952c-e1249b3c1f87" />
