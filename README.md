@@ -26,3 +26,15 @@
 **Academic Stress Level Data Survey**
 
 <img width="857" height="485" alt="image" src="https://github.com/user-attachments/assets/ca0c2d1d-b181-4d4c-952c-e1249b3c1f87" />
+
+
+
+
+
+
+**Bike Sales Dashboard**
+
+<img width="702" height="454" alt="image" src="https://github.com/user-attachments/assets/b0f4709e-aaf5-4756-aafa-caeb1b3c2e68" />
+
+This project showcases the process of cleaning and analyzing a bike sales dataset in Excel, followed by creating an interactive dashboard using Pivot Tables and Pivot Charts. The dashboard highlights key customer insights such as income levels, age brackets, commute distances, and demographic factors influencing bike purchases.
+
